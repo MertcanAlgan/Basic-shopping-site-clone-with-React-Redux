@@ -21,7 +21,7 @@ function AddOrUpdateProduct({
       getCategories();
     }
     setProduct({ ...props.product });
-  }, [props.product]);
+  }, [categories.length, getCategories, props.product]);
 
   function handleChange(event) {
     const { name, value } = event.target;

@@ -5,7 +5,7 @@
       "categoryId": 1,
       "productName": "Chai",
       "quantityPerUnit": "48 - 6 oz jars",
-      "unitPrice": "26",
+      "unitPrice": "30",
       "unitsInStock": 53,
       "quantitiyPerUnit": "100"
     },
@@ -640,6 +640,14 @@
       "quantityPerUnit": "100",
       "unitsInStock": "100",
       "id": 81
+    },
+    {
+      "productName": "deneme",
+      "categoryId": 2,
+      "unitPrice": "1000",
+      "quantityPerUnit": "1000",
+      "unitsInStock": "1000",
+      "id": 82
     }
   ],
   "categories": [
